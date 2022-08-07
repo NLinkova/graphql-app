@@ -6,11 +6,13 @@
 
 App allows to track project progress, add/edit/delete clients and add/edit/delete projects
 
-### Install
+## Usage
 
 ```
 create .env file in the root folder with NODE_ENV and MONGO_URI
 ```
+
+### Install dependencies
 
 ```
 npm install
@@ -37,3 +39,7 @@ npm start
 cd client
 npm run build
 ```
+
+## Demo
+
+I am not sure how long this will be up
