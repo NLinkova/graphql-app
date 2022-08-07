@@ -4,32 +4,36 @@
 
 ## Project management app from Traversy Media GraphQL crash course
 
-### Usage
+App allows to track project progress, add/edit/delete clients and add/edit/delete projects
 
+### Install
+
+```
 create .env file in the root folder with NODE_ENV and MONGO_URI
+```
 
-Install
-
+```
 npm install
 cd client npm install
 cd ..
+```
 
-# Backend
+#### Backend
 
+```
 npm run dev
+```
 
-# Frontend
+#### Frontend
 
+```
 cd client
 npm start
+```
 
-# Build client
+#### Build client
 
+```
 cd client
 npm run build
-
-# Prod
-
-npm start
-
-This will start backend, frontend and MongoDB.
+```
