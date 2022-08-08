@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "graphql project",
   "main": "index.js",
+  "engines": {
+    "node": "16.5.0"
+  },
   "dependencies": {
     "colors": "^1.4.0",
     "cors": "^2.8.5",
